@@ -1,0 +1,10 @@
+<singers>  
+    <singer id="1">  
+        <name>邓紫棋</name>  
+        <salary>50000</salary>  
+    </singer>  
+    <singer id="15">  
+        <name>黄俊东</name>  
+        <salary>60000</salary>  
+    </singer>  
+</singers>
